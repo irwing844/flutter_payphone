@@ -17,5 +17,5 @@ Nota 2: Amount, AmountWithTax y Tax se deben multiplicar por 100, es decir, $1 d
 
 ## Apoyame
 Si te sirve este plugin y quieres que sea actualizado constantemente puedes apoyarme donando 
-a mi cuenta de payphone (https://raw.githubusercontent.com/irwing844/flutter_payphone/master/qr_payphone_irwinortiz.jpg)
+a mi cuenta de payphone ![payphone 0995502854](https://raw.githubusercontent.com/irwing844/flutter_payphone/master/qr_payphone_irwinortiz.jpg)
 o a mi PayPal: https://www.paypal.me/irwinortiz
