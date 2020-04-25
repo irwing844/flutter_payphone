@@ -12,6 +12,7 @@ Plugin creado por Irwin Ortiz <irwing844@gmail.com>
 3. Llamar a Payphone(tokenApiKey).saleStatus(clientTransactionId); para verificar el status de la transacción.
 
 Nota 1: el clientTransactionId es una referencia cualquiera para identificar la transacción del cliente. 
+
 Nota 2: Amount, AmountWithTax y Tax . 
 
 ## Apoyame
